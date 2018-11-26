@@ -1,0 +1,46 @@
+
+body {
+    text-align: center;
+}
+img {
+    width: 400px;
+}
+body {
+    background: url('https://media1.tenor.com/images/e2ef3301a95aceb57c9b62c12e8dce8b/tenor.gif?itemid=8821758');
+    background-size: cover;
+}
+h1 {
+    color: white;
+    font-size: 90px;
+    font-family: 'Arvo', serif;
+}
+p {
+    color: white;
+    font-size: 70px;
+    background-color: black;
+    opacity: .7;
+    font-family: 'Kumar One Outline', cursive;
+}
+h3 {
+    color: white;
+    font-family: 'Lobster', cursive;
+}
+a href{
+    color: white;
+}
+.white {
+    color: pink;
+    font-family: 'Raleway', sans-serif;
+}
+.blue {
+    color: red;
+    font-family: 'Oswald', sans-serif;
+}
+.red {
+    color: yellow;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.green {
+    color: blue ;
+    font-family: 'Allerta Stencil', sans-serif;
+} 
